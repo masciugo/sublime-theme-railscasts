@@ -18,9 +18,9 @@
         <key>invisibles</key>
         <string>#404040</string>
         <key>lineHighlight</key>
-        <string>#333435</string>
+        <string>#4E4E4E</string>
         <key>selection</key>
-        <string>#3D4456E0</string>
+        <string>#4E4E4E</string>
       </dict>
     </dict>
     <dict>
